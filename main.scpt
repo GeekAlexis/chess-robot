@@ -1,3 +1,5 @@
+--Chess Helper main script
+
 if the length of (serialport list) is less than 4 then
 	beep
 	display dialog "No available port" with icon caution
