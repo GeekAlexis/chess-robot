@@ -14,5 +14,5 @@ human vs human
 human vs computer (human first)  
 computer vs human (computer first)  
 computer vs computer  
-## Demo
+## Demo (computer vs computer)
 [![thumbnail](https://img.youtube.com/vi/QaSgTOTe4k4/0.jpg)](https://www.youtube.com/watch?v=QaSgTOTe4k4 "Smart Chess Robot Demo")
