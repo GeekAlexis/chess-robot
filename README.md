@@ -1,12 +1,14 @@
 # Smart-Chess-Robot
-Hardware Resources:
+Two Arduino boards are used for this project, one Arduino Mega and one Arduino Uno:
 Arduino Mega (sensor readings and UART communication)
 Arduino Uno (control motors)
-3 step motors and 1 servo motor
-2D slide motor rail
-64 reed switches and diodes for magnetic sensor array
-chess pieces with magnets on the bottom
-One strong Neodymium magnet
-2 seven segments displays
-1 LCD
+
+The applescript app connects the commandline Sjeng Chess Engine to the Arduino through serial UART.
+Sjeng provides computer moves and reports invalid moves made by a human player
+
+4 game modes supported:
+human vs human
+human vs computer (human first)
+computer vs human (computer first)
+computer vs computer
 
