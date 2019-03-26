@@ -5,7 +5,7 @@ Arduino Uno (control motors)
 Motors, seven segments displays and LCDs are controlled using I2C
 The Chess Helper app links the commandline Sjeng Chess Engine with Arduino Mega through serial UART  
 Sjeng outputs computer moves and reports invalid moves made by a human player   
-## Some Features
+## Some features
 Chess clock can respond to sensors and automatically switch side  
 Mnimax search depth of Sjeng is constantly adjusted to react to the time limit  
 Invalid moves can be corrected without the need to start over
