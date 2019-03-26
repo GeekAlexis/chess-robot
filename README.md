@@ -11,10 +11,10 @@
 - Difficulty level can also be adjusted by changing the search depth  
 - Invalid moves can be corrected without the need to start over
 ## Supported game modes
-human vs human  
-human vs computer (human first)  
-computer vs human (computer first)  
-computer vs computer  
+- human vs human  
+- human vs computer (human first)  
+- computer vs human (computer first)  
+- computer vs computer  
 ## Demo
 ### computer vs computer  
 [![thumbnail](https://img.youtube.com/vi/QaSgTOTe4k4/0.jpg)](https://www.youtube.com/watch?v=QaSgTOTe4k4 "Smart Chess Robot Demo")
