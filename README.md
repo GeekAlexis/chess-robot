@@ -7,9 +7,10 @@
 - Sjeng outputs computer moves and reports invalid moves made by a human player   
 ## Some features
 - Chess clock can respond to sensors and automatically switch side  
+- Moves, captures, castling, and pawn promotion are all smartly detected and shown on the LCD 
+- Invalid moves can be corrected without the need to start over  
 - Mnimax search depth of Sjeng is constantly adjusted to react to the time limit  
 - Difficulty level can also be adjusted by changing the search depth  
-- Invalid moves can be corrected without the need to start over
 ## Supported game modes
 - human vs human  
 - human vs computer (human first)  
