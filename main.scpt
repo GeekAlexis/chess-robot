@@ -1,4 +1,4 @@
---Chess Helper main script
+--Chess Helper app main script
 
 if the length of (serialport list) is less than 4 then
 	beep
