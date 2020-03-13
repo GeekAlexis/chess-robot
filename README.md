@@ -14,8 +14,8 @@
 - Difficulty level can also be adjusted by changing the search depth  
 ## Supported game modes
 - human vs human  
-- human vs computer (human first)  
-- computer vs human (computer first)  
+- human vs computer (human white)  
+- computer vs human (computer white)  
 - computer vs computer  
 ## Demo
 ### computer vs computer  
