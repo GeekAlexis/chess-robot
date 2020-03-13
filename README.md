@@ -1,5 +1,5 @@
 # Smart-Chess-Robot
-## Peripheral Interface
+## Peripheral Interfaces
 - Two Arduino boards are required for this project due to limited GPIO pins  
   - Arduino Mega (sensor readings and main control)  
   - Arduino Uno (manage motors)  
