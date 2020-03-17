@@ -5,7 +5,7 @@
   - Arduino Uno (manage motors)  
 - Motors, seven segments displays and the LCD are interfaced using I2C  
 - The Chess Helper app links the commandline Sjeng Chess Engine with Arduino Mega through serial UART  
-- Sjeng outputs computer moves and reports invalid moves made by a human player   
+- Sjeng outputs AI moves and reports invalid moves made by a human player   
 ## Features
 - Chess clock can respond to sensors and automatically switch side  
 - Moves, captures, castling, and pawn promotion are all smartly detected and shown on the LCD 
@@ -14,9 +14,9 @@
 - Difficulty level can also be adjusted by changing the search depth  
 ## Supported game modes
 - human vs human  
-- human vs computer (human white)  
-- computer vs human (computer white)  
-- computer vs computer  
+- human vs AI (human white)  
+- AI vs human (AI white)  
+- AI vs AI  
 ## Demo
-### computer vs computer  
+### AI vs AI  
 [![thumbnail](https://img.youtube.com/vi/QaSgTOTe4k4/0.jpg)](https://www.youtube.com/watch?v=QaSgTOTe4k4 "Smart Chess Robot Demo")
