@@ -1,6 +1,4 @@
 # Chess-Robot
-[![HitCount](http://hits.dwyl.com/GeekAlexis/Chess-Robot.svg)](http://hits.dwyl.com/GeekAlexis/Chess-Robot)
-
 ## Peripheral Interfaces
 - Two Arduino boards are required for this project due to limited GPIO pins  
   - Arduino Mega (sensor readings and main control)  
